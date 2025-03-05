@@ -12,7 +12,7 @@ const SinglePage = () => {
       </div>
       {/* Text container */}
       <div className=' w-full lg:w-1/2 flex flex-col gap-6'>
-          <h1 className=' text-4xl font-medium'>Product Name</h1>
+          <h1 className=' text-4xl font-medium'>Round Neck T-shirt</h1>
           <p className=' text-gray-500'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Hic amet, illo repellendus nostrum ipsa officia. Eaque ullam corporis incidunt ipsam quaerat consequuntur repellendus

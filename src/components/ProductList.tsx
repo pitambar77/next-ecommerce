@@ -11,14 +11,14 @@ const ProductList = () => {
         <Link href="/test" className=' w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]'>
             <div className=' w-full h-80 relative'>
             <Image 
-                src="https://images.pexels.com/photos/30924826/pexels-photo-30924826/free-photo-of-elegant-organizing-with-coffee-and-accessories.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/15404590/pexels-photo-15404590/free-photo-of-rack-with-choice-of-sweaters.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
                 className=' absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500'
             />
             <Image 
-                src="https://images.pexels.com/photos/30922278/pexels-photo-30922278/free-photo-of-stack-of-powdered-sugar-donuts-on-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/5734462/pexels-photo-5734462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
@@ -35,14 +35,14 @@ const ProductList = () => {
         <Link href="/test" className=' w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]'>
             <div className=' w-full h-80 relative'>
             <Image 
-                src="https://images.pexels.com/photos/1715184/pexels-photo-1715184.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                src="https://images.pexels.com/photos/5734462/pexels-photo-5734462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
                 className=' absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500'
             />
             <Image 
-                src="https://images.pexels.com/photos/2607554/pexels-photo-2607554.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                src="https://images.pexels.com/photos/15404590/pexels-photo-15404590/free-photo-of-rack-with-choice-of-sweaters.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
@@ -59,14 +59,14 @@ const ProductList = () => {
         <Link href="/test" className=' w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]'>
             <div className=' w-full h-80 relative'>
             <Image 
-                src="https://images.pexels.com/photos/2607554/pexels-photo-2607554.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                src="https://images.pexels.com/photos/5418892/pexels-photo-5418892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
                 className=' absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500'
             />
             <Image 
-                src="https://images.pexels.com/photos/1715184/pexels-photo-1715184.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                src="https://images.pexels.com/photos/18699686/pexels-photo-18699686/free-photo-of-choice-of-clothing-in-store.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
@@ -83,14 +83,14 @@ const ProductList = () => {
         <Link href="/test" className=' w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]'>
             <div className=' w-full h-80 relative'>
             <Image 
-                src="https://images.pexels.com/photos/30924826/pexels-photo-30924826/free-photo-of-elegant-organizing-with-coffee-and-accessories.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/18699686/pexels-photo-18699686/free-photo-of-choice-of-clothing-in-store.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
                 className=' absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500'
             />
             <Image 
-                src="https://images.pexels.com/photos/30922278/pexels-photo-30922278/free-photo-of-stack-of-powdered-sugar-donuts-on-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/25749259/pexels-photo-25749259/free-photo-of-close-up-of-clothes-hanging-on-a-rack-in-a-clothing-store.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
@@ -107,14 +107,14 @@ const ProductList = () => {
         <Link href="/test" className=' w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]'>
             <div className=' w-full h-80 relative'>
             <Image 
-                src="https://images.pexels.com/photos/30924826/pexels-photo-30924826/free-photo-of-elegant-organizing-with-coffee-and-accessories.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/5717891/pexels-photo-5717891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
                 className=' absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500'
             />
             <Image 
-                src="https://images.pexels.com/photos/30922278/pexels-photo-30922278/free-photo-of-stack-of-powdered-sugar-donuts-on-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/9219048/pexels-photo-9219048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt='' 
                 fill
                 sizes='25vw'
